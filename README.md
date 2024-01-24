@@ -2,4 +2,5 @@
 
 Here's the output of Digital Clock Project
 
-![calc](https://github.com/JafranAhmad/SMIT-DigitalClock-Assignment/assets/136591003/cc341001-8022-41fc-be14-36c7a0085e6f)
+
+![digital](https://github.com/JafranAhmad/SMIT-DigitalClock-Assignment/assets/136591003/8dcfc457-751b-4177-ba4f-55d3eac8c442)
